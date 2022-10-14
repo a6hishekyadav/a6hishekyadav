@@ -19,4 +19,3 @@ I'm currently learning MERN stack👨‍💻<br>Fascinated about Opensource and 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bugsyy157&icon=8&color=0)](https://visitcount.itsvg.in)
